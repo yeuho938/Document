@@ -8,3 +8,6 @@
 ### 3. Cài đặt Vuejs
 ### 4. Cài đặt Vuejs + Laravel
 ### 5. Các khái niệm về Vuejs
+## II. LARAVEL
+### 1. Thống kê
+        - 7 day: https://laracasts.com/discuss/channels/eloquent/calculating-income-each-day-for-past-7-days
