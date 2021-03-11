@@ -8,6 +8,8 @@
 ### 3. Cài đặt Vuejs
 ### 4. Cài đặt Vuejs + Laravel
 ### 5. Các khái niệm về Vuejs
+### 6. CRUD
+      - https://stackoverflow.com/questions/40284338/javascript-fetch-delete-and-put-requests
 ## II. LARAVEL
 ### 1. Thống kê
         - 7 day: https://laracasts.com/discuss/channels/eloquent/calculating-income-each-day-for-past-7-days
