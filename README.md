@@ -13,3 +13,7 @@
 ## II. LARAVEL
 ### 1. Thống kê
         - 7 day: https://laracasts.com/discuss/channels/eloquent/calculating-income-each-day-for-past-7-days
+        - Get the number of week: 
+                 https://stackoverflow.com/questions/25199465/get-the-number-of-weeks-in-a-month-and-the-corresponding-days
+                 https://laracasts.com/discuss/channels/laravel/carbon-get-count-of-weeks-in-month
+        
